@@ -4,11 +4,11 @@ Hey there! I am Chandrahas Gabbita, a recent graduate from Stony Brook Universit
 [Take a look at my resume](https://github.com/gabbita-ss/Portfolio/blob/main/CG%20.pdf)
 
 ## What can I do?
-My coursework includes advanced Physics and Math, Statistics, Data Analysis (Regression Modelling), and Machine Learning for Quantitative Finance. I have completed the Google Advanced Data Analytics certification during which I familiarized myself with many more machine learning methods especailly suited for tabular data. 
+I can help draw insights and predictions from data starting with exploratory data analysis to model validation, testing, and visualization. My coursework includes advanced Physics and Math, Statistics, Data Analysis (Regression Modelling), and Machine Learning for Quantitative Finance. I have completed the Google Advanced Data Analytics certification during which I familiarized myself with many more machine learning methods especailly suited for tabular data.
 
 [My Google Advanced Data Analytics certification](https://github.com/gabbita-ss/Portfolio/blob/main/Certification.pdf)
 
-## I am skilled in the following ares:
+## I am skilled in the following areas:
 
 ### Programming Languages
 - I am an expert in Python
@@ -26,6 +26,9 @@ My coursework includes advanced Physics and Math, Statistics, Data Analysis (Reg
 - Feed Forward and Convolutional Neural Networks
 
 ### My Data Analytics Skills Other Than The Ones Listed Above:
-- Exploratory data analytics and visualization
+- Exploratory data analytics and visualization in python
+
+# My Projects 
+
 
 
