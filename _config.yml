@@ -2,6 +2,7 @@ title: Hello! Look around to find some cool Data Science projects!
 description: 
 show_downloads: true
 google_analytics:
+markdown: GFM
 theme: jekyll-theme-cayman
 
 
