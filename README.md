@@ -30,5 +30,8 @@ I can help draw insights and predictions from data starting with exploratory dat
 
 # My Projects 
 
+## Google Advanced Data Analytics Capstone Project 
+[Project Code](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
+
 
 
