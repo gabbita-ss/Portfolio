@@ -6,4 +6,4 @@ Hey there! I am Chandrahas Gabbita, a recent graduate from Stony Brook Universit
 ## What can I do?
 My coursework includes advanced Physics and Math, Statistics, Data Analysis (Regression Modelling), and Machine Learning for Quantitative Finance. I have completed the Google Advanced Data Analytics certification during which I familiarized myself with many more machine learning methods especailly suited for tabular data. 
 
-[My Google Advanced Data Analytics certification]()
+[My Google Advanced Data Analytics certification](https://github.com/gabbita-ss/Portfolio/blob/main/Certification.pdf)
