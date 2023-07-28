@@ -35,18 +35,18 @@ As a part of the Google Advanced Data Analytics certification, I have completed 
 
 **Exploratory Data Analysis**
 - The structure of the data was examined and contained the following format:
-| Column name                | Description                                                       | Data Type                     |
-|----------------------------|-------------------------------------------------------------------|-------------------------------|  
-| 'satisfaction_level'       | Self reported satsifaction of employee                            | float (0-1)                   |
-| 'last_evaluation'          | Previous evaluation of employee performace                        | float (0-1)                   |
-| 'number_project'           | Number of projects employee contributes to                        | int                           |
-| 'average_monthly_hours'    | Average number of hours employee worked per month                 | float                         |
-| 'time_spend_company'       | How long the employee has been with the company (years)           | int                           |
-| 'work_accident'            | Whether or not the employee experienced an accident while at work | int (0 or 1)                  |
-| 'promotion_last_5years'    | Whether or not the employee was promoted in the last 5 years      | int (0 or 1)                  |
-| 'department'               | The employee's department                                         | str (any of a list of deps.)  |
-| 'salary'                   | The employee's salary                                             | str (low, medium, or high)    |
-| 'left'                     | Whether or not the employee left the company                      | int (0 or 1)                  |
+  | Column name                | Description                                                       | Data Type                     |
+  |----------------------------|-------------------------------------------------------------------|-------------------------------|  
+  | 'satisfaction_level'       | Self reported satsifaction of employee                            | float (0-1)                   |
+  | 'last_evaluation'          | Previous evaluation of employee performace                        | float (0-1)                   |
+  | 'number_project'           | Number of projects employee contributes to                        | int                           |
+  | 'average_monthly_hours'    | Average number of hours employee worked per month                 | float                         |
+  | 'time_spend_company'       | How long the employee has been with the company (years)           | int                           |
+  | 'work_accident'            | Whether or not the employee experienced an accident while at work | int (0 or 1)                  |
+  | 'promotion_last_5years'    | Whether or not the employee was promoted in the last 5 years      | int (0 or 1)                  |
+  | 'department'               | The employee's department                                         | str (any of a list of deps.)  |
+  | 'salary'                   | The employee's salary                                             | str (low, medium, or high)    |
+  | 'left'                     | Whether or not the employee left the company                      | int (0 or 1)                  |
 
 
 [Project Code](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
