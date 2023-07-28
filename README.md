@@ -31,7 +31,24 @@ I can help draw insights and predictions from data starting with exploratory dat
 # My Projects 
 
 ## Google Advanced Data Analytics Capstone Project
-As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention. The data set contains data collected from employees about a variety of factors 
+As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention in the company. The data set contains data collected from employees on a variety of factors such as their satisfaction level, salary, and the number of years they have worked for the company etc. In addition, the data also includes whether the employee stayed in the company or left. This data set wsa borrowed from Kggle and can be accessed [here](https://www.kaggle.com/datasets/leviiiest/salifort-motor-hr-dataset?select=HR_capstone_dataset.csv). The project includes the following stages:
+
+**Exploratory Data Analysis**
+- The structure of the data was examined and contained the following format:
+  | Column name                | Description                                                       | Data Type                     |
+  |----------------------------|-------------------------------------------------------------------|-------------------------------|
+  | 'satisfaction_level'       | Self reported satsifaction of employee                            | float (0-1)                   |
+  | 'last_evaluation'          | Previous evaluation of employee performace                        | float (0-1)                   |
+  | 'number_project'           | Number of projects employee contributes to                        | int                           |
+  | 'average_monthly_hours'    | Average number of hours employee worked per month                 | float                         |
+  | 'time_spend_company'       | How long the employee has been with the company (years)           | int                           |
+  | 'work_accident'            | Whether or not the employee experienced an accident while at work | int (0 or 1)                  |
+  | 'promotion_last_5years'    | Whether or not the employee was promoted in the last 5 years      | int (0 or 1)                  |
+  | 'department'               | The employee's department                                         | str (any of a list of deps.)  |
+  | 'salary'                   | The employee's salary                                             | str (low, medium, or high)    |
+  | 'left'                     | Whether or not the employee left the company                      | int (0 or 1)                  |
+
+
 [Project Code](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
 
 
