@@ -35,6 +35,7 @@ As a part of the Google Advanced Data Analytics certification, I have completed 
 
 **Exploratory Data Analysis**
 - The structure of the data was examined and contained the following format:
+  
   | Column name                | Description                                                       | Data Type                     |
   |----------------------------|-------------------------------------------------------------------|-------------------------------|  
   | 'satisfaction_level'       | Self reported satsifaction of employee                            | float (0-1)                   |
