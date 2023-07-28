@@ -36,8 +36,8 @@ As a part of the Google Advanced Data Analytics certification, I have completed 
 **Exploratory Data Analysis**
 - The structure of the data was examined and contained the following format:
   | Column name                | Description                                                       | Data Type                     |
-
   |----------------------------|-------------------------------------------------------------------|-------------------------------|
+  
   | 'satisfaction_level'       | Self reported satsifaction of employee                            | float (0-1)                   |
   | 'last_evaluation'          | Previous evaluation of employee performace                        | float (0-1)                   |
   | 'number_project'           | Number of projects employee contributes to                        | int                           |
