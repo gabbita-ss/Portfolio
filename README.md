@@ -30,7 +30,8 @@ I can help draw insights and predictions from data starting with exploratory dat
 
 # My Projects 
 
-## Google Advanced Data Analytics Capstone Project 
+## Google Advanced Data Analytics Capstone Project
+As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention. The data set contains data collected from employees about a variety of factors 
 [Project Code](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
 
 
