@@ -81,6 +81,7 @@ The dataset consists of a set of 20 datasets of frequency data - 10 scattering d
 - The means and standard deviation of the peaks were noted and plotted against angle
 
 The result of the data preprocessing is the following:
+
 ![Energy-Angle relationhsip](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Energy-Angle_1.jpg)
 
 **Model Building and Validation**
