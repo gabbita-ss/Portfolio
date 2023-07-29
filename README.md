@@ -1,37 +1,36 @@
-<details>
-  <summary>About Me</summary>
-    
-  # Who am I?
-  Hey there! I am Chandrahas Gabbita, a recent graduate from Stony Brook University. I am a double major in Physics and Mathematics and am interested in the        field of Data Analysis and Data Science. Over the last year, I have been learning data science through a combination of coursework, certifications, and           projects. It has been a fascinating journey and if you'd like to learn more about it, take a look at my resume below and keep scrolling!
+ # Who am I?
+ <details>
+   <summary>About Me</summary>
+    Hey there! I am Chandrahas Gabbita, a recent graduate from Stony Brook University. I am a double major in Physics and Mathematics and am interested in the        field of Data Analysis and Data Science. Over the last year, I have been learning data science through a combination of coursework, certifications, and           projects. It has been a fascinating journey and if you'd like to learn more about it, take a look at my resume below and keep scrolling!
 
-  [Take a look at my resume](https://github.com/gabbita-ss/Portfolio/blob/main/CG%20.pdf)
+  </details>
 
-  ## What can I do?
-  I can help draw insights and predictions from data starting with exploratory data analysis to model validation, testing, and visualization. My coursework         includes advanced Physics and Math, Statistics, Data Analysis (Regression Modelling), and Machine Learning for Quantitative Finance. I have completed the         Google Advanced Data Analytics certification during which I familiarized myself with many more machine learning methods especailly suited for tabular data.
+[Take a look at my resume](https://github.com/gabbita-ss/Portfolio/blob/main/CG%20.pdf)
 
-  [My Google Advanced Data Analytics certification](https://github.com/gabbita-ss/Portfolio/blob/main/Certification.pdf)
+## What can I do?
+I can help draw insights and predictions from data starting with exploratory data analysis to model validation, testing, and visualization. My coursework         includes advanced Physics and Math, Statistics, Data Analysis (Regression Modelling), and Machine Learning for Quantitative Finance. I have completed the         Google Advanced Data Analytics certification during which I familiarized myself with many more machine learning methods especailly suited for tabular data.
 
-  ## I am skilled in the following areas:
+[My Google Advanced Data Analytics certification](https://github.com/gabbita-ss/Portfolio/blob/main/Certification.pdf)
 
-  **Programming Languages**
-  - I am an expert in Python
-  - I am experienced in statistical programming in R
-  - MATLAB
+## I am skilled in the following areas:
 
-  **Machine Learning**
-  - Model validation and testing
-  - Linear and Logistic regression
-  - Descision trees, Random forests, Gradient boosted trees
-  - Clustering algorithms such as k-means
-  - Naive Baye's classification and regression
+**Programming Languages**
+- I am an expert in Python
+- I am experienced in statistical programming in R
+- MATLAB
 
-  **Deep Learning** 
-  - Feed Forward and Convolutional Neural Networks
+**Machine Learning**
+- Model validation and testing
+- Linear and Logistic regression
+- Descision trees, Random forests, Gradient boosted trees
+- Clustering algorithms such as k-means
+- Naive Baye's classification and regression
 
-  **My Data Analytics Skills Other Than The Ones Listed Above:**
-  - Exploratory data analytics and visualization in python
+**Deep Learning** 
+- Feed Forward and Convolutional Neural Networks
 
-</details>
+**My Data Analytics Skills Other Than The Ones Listed Above:**
+- Exploratory data analytics and visualization in python
 
 
 # My Projects 
