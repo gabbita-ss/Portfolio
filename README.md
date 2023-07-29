@@ -62,7 +62,7 @@ The project includes the following stages:
 ## Senior Lab Course Experiment (Regression)
 This experiment was part of my PHY 445 (Senior Physics Lab) coursework and was on a physics scattering phenomenon called Compton Scattering. The experiment included collecting scattering and background noise data at 10 different angles of the setup. The form of data collected is of the form of "number of scattering events" for each given "energy bin". Therefore, it is frequency data and follows a poisson distribution. The corrected data is the result of subtracting the background noise dataset from the dcattering datasets. The corrected data is expected to contain two peaks and therefore can be fit with two gaussians. One of the 10 cleaned datasets after data preprocessing (described below) and the fit is as follows:
 
-![Compton Scattering data with fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Compton-data-format.jpg)
+![Compton Scattering data with fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Compton-data-format_1.jpg)
 
 The goal of the project was to fit the expected curve to scattering data with the "electron mass" as a free parameter to verify the mass of the electron (~511 MeV) and verify another expected compton scattering Energy - Angle curve.
 
