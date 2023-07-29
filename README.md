@@ -64,7 +64,7 @@ This experiment was part of my PHY 445 (Senior Physics Lab) coursework and was o
 
 ![Compton Scattering data with fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Compton-data-format_1.jpg)
 
-The goal of the project was to fit the expected curve to scattering data with the "electron mass" as a free parameter to verify the mass of the electron (~511 MeV) and verify another expected compton scattering Energy - Angle curve.
+The goal of the project was to track the location of larger peak on the energy bin axis through all 10 angles or datasets with it's associated uncertainty. and plot the energy-bin location of the peak as a function of the angle. A regression model of the expected theoretical curve is fit with the "electron mass" as the free parameter to determine and verify the electron mass with the accepted value in literture (~511 MeV).
 
 The dataset consists of a set of 20 datasets of frequency data - 10 scattering datasets and 10 background datasets in total - one scattering and background frequency data for each angle. In order to accomplish this goal the following steps were followed:
 
@@ -77,7 +77,15 @@ The dataset consists of a set of 20 datasets of frequency data - 10 scattering d
 - The background noise datasets were subtracted from each of the scattering datasets giving a total of 10 cleaned datasets
 - The data was rescaled appropriately for the following analysis
 - Frequency data was corrected for the sensitivity of the equipment as a function of energy bin number
--  
+- The two-gaussian regression model was fit to the corrected datasets for each of the 10 angles
+- The means and standard deviation of the peaks were noted and plotted against angle
+
+The result of the data preprocessing is the following:
+![Energy-Angle relationhsip](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Energy-Angle_1.jpg)
+
+**Model Building and Validation**
+- The appropriate regression curve was fit to the Energy-Angle plot
+- 
 
 
 
