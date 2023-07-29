@@ -59,6 +59,26 @@ The project includes the following stages:
 
 [Look at the project, results, and visualtizations here!](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
 
+## Senior Lab Course Experiment (Regression)
+This experiment was part of my PHY 445 (Senior Physics Lab) coursework and was on a physics scattering phenomenon called Compton Scattering. The experiment included collecting scattering and background noise data at 10 different angles of the setup. The form of data collected is of the form of "number of scattering events" for each given "energy bin". Therefore, it is frequency data and follows a poisson distribution. The corrected data is the result of subtracting the background noise dataset from the dcattering datasets. The corrected data is expected to contain two peaks and therefore can be fit with two gaussians. One of the 10 cleaned datasets after data preprocessing (described below) and the fit is as follows:
+
+![Compton Scattering data with fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Compton-data-format.jpg)
+
+The goal of the project was to fit the expected curve to scattering data with the "electron mass" as a free parameter to verify the mass of the electron (~511 MeV) and verify another expected compton scattering Energy - Angle curve.
+
+The dataset consists of a set of 20 datasets of frequency data - 10 scattering datasets and 10 background datasets in total - one scattering and background frequency data for each angle. In order to accomplish this goal the following steps were followed:
+
+**Exploratory Data Analysis**
+- Form of data was examined and the poisson model of the data was noted
+- Datasets were examined for skewness and outliers
+- The appropriate regression model to fit the scattering data was determined to be a sum of two gaussians  
+
+**Data Pre-Processing**
+- The background noise datasets were subtracted from each of the scattering datasets giving a total of 10 cleaned datasets
+- The data was rescaled appropriately for the following analysis
+- Frequency data was corrected for the sensitivity of the equipment as a function of energy bin number
+-  
+
 
 
 
