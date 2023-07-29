@@ -31,15 +31,32 @@ I can help draw insights and predictions from data starting with exploratory dat
 # My Projects 
 
 ## Google Advanced Data Analytics Capstone Project
-As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention in the company. The data set contains data collected from employees on a variety of factors such as their satisfaction level, salary, and the number of years they have worked for the company etc. In addition, the data also includes whether the employee stayed in the company or left. This data set wsa borrowed from Kggle and can be accessed [here](https://www.kaggle.com/datasets/leviiiest/salifort-motor-hr-dataset?select=HR_capstone_dataset.csv). The project includes the following stages:
+As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention in the company. The goal of the project is to determine whether an employee will stay in the company or churn (leave) based on a set of features. The data set contains data collected from employees on a variety of factors such as their satisfaction level, salary, and the number of years they have worked for the company etc. In addition, the data also includes whether the employee stayed in the company or left. This data set was borrowed from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/leviiiest/salifort-motor-hr-dataset?select=HR_capstone_dataset.csv). The data format is as follows:
+![Test](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Google-data-format.jpg)
+
+The project includes the following stages:
 
 **Exploratory Data Analysis**
-- The structure of the data was examined and contained the following format:
-  ![Test](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Google-data-format.jpg)
+- The data was examined and the appropriate statistics were determined and outliers were noted
+- Different variables were compared to determine the strongest predictors of employee churn
+- Key insights were drawn on the predictors of employee churn
 
-- The missing values in the dataset were removed and the appropriate statistics were calculated
-- Different varaibles in the dataset were checked for linear dependence 
-[Project Code](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
+**Data Pre-Processing**
+- Missing values in the data were removed
+- The data was divided into three sections - train, validation, and test data (in a 0.8 - 0.2 - 0.2 split)
+
+**Model Building and Validation**
+- The best metric to train the models on was determined to be "recall" becasue of the the unequal representation of classes in the dataset
+- Two models were built - a random forest model and a gradient boosted tree model
+- Hyperparameters were tuned for both models using cross validation with 5 folds on the train data
+- Both models were validated against each other on the validation data to determine champion model
+- The champion model (the gradient boosted tree model) was tested on the test data
+
+**Testing and Insights**
+- The model performed extremely well on the test data with an accuracy of 98%, precision of 97%, and recall of 93%.
+- The most significant factors affecting employee retention were determined
+
+[Look at the project, results, and visualtizations here!](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
 
 
 
