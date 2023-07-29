@@ -50,7 +50,11 @@ As a part of the Google Advanced Data Analytics certification, I have completed 
   | 'left'                     | Whether or not the employee left the company                      | int (0 or 1)                  |
 
 
+- The missing values in the dataset were removed and the appropriate statistics were calculated
+- Different varaibles in the dataset were checked for linear dependence 
 [Project Code](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
+
+
 
 
 
