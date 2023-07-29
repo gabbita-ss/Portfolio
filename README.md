@@ -10,22 +10,22 @@ I can help draw insights and predictions from data starting with exploratory dat
 
 ## I am skilled in the following areas:
 
-### Programming Languages
+**Programming Languages**
 - I am an expert in Python
 - I am experienced in statistical programming in R
 - MATLAB
 
-### Machine Learning 
+**Machine Learning**
 - Model validation and testing
 - Linear and Logistic regression
 - Descision trees, Random forests, Gradient boosted trees
 - Clustering algorithms such as k-means
 - Naive Baye's classification and regression
 
-### Deep Learning 
+**Deep Learning** 
 - Feed Forward and Convolutional Neural Networks
 
-### My Data Analytics Skills Other Than The Ones Listed Above:
+**My Data Analytics Skills Other Than The Ones Listed Above:**
 - Exploratory data analytics and visualization in python
 
 # My Projects 
