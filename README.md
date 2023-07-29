@@ -35,7 +35,7 @@ As a part of the Google Advanced Data Analytics certification, I have completed 
 
 **Exploratory Data Analysis**
 - The structure of the data was examined and contained the following format:
-  ![Test](docs/assests/images/Google_data_format.JPG)
+  ![Test]("docs/assests/images/Google_data_format.JPG")
 
 - The missing values in the dataset were removed and the appropriate statistics were calculated
 - Different varaibles in the dataset were checked for linear dependence 
