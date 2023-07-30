@@ -36,6 +36,8 @@ I can help draw insights and predictions from data starting with exploratory dat
   
 As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention in the company. The goal of the project is to determine whether an employee will stay in the company or churn (leave) based on a set of features. The data set contains data collected from employees on a variety of factors such as their satisfaction level, salary, and the number of years they have worked for the company etc. In addition, the data also includes whether the employee stayed in the company or left. This data set was borrowed from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/leviiiest/salifort-motor-hr-dataset?select=HR_capstone_dataset.csv). The data format is as follows:
 
+</details>
+
 ![Test](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Google-data-format.jpg)
 
 The project includes the following stages:
@@ -62,7 +64,6 @@ The project includes the following stages:
 
 [Look at the project, results, and visualtizations here!](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
 
-</details>
 
 ## Senior Lab Course Experiment (Regression)
 This experiment was part of my PHY 445 (Senior Physics Lab) coursework and was on a physics scattering phenomenon called Compton Scattering. The experiment included collecting scattering and background noise data at 10 different angles of the setup. The form of data collected is of the form of "number of scattering events" for each given "energy bin". Therefore, it is frequency data and follows a poisson distribution. The corrected data is the result of subtracting the background noise dataset from the dcattering datasets. The corrected data is expected to contain two peaks and therefore can be fit with two gaussians. One of the 10 cleaned datasets after data preprocessing (described below) and the fit is as follows:
