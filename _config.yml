@@ -3,6 +3,6 @@ show_downloads: true
 theme: jekyll-theme-cayman
 markdown: kramdown
 kramdown:
-  input: GFM
+  parse_block_html: true
 
 
