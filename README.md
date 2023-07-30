@@ -34,6 +34,8 @@ I can help draw insights and predictions from data starting with exploratory dat
 
 ## Google Advanced Data Analytics Capstone Project
 
+[Look at the project, results, and visualtizations here!](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
+
 <details>
 <summary><b>Click here to view the capstone project!</b></summary></summary>
 
@@ -63,12 +65,11 @@ The project includes the following stages:
 - The model performed extremely well on the test data with an accuracy of 98%, precision of 97%, and recall of 93%.
 - The most significant factors affecting employee retention were determined
 
-[Look at the project, results, and visualtizations here!](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Google%20Advanced%20Data%20Analytics%20Project.ipynb)
-
 </details>
 
 ## Senior Lab Course Experiment (Regression)
-<details> <summary><b>Click here to look at the analysis!</b></summary>  
+[Take a look at the project code, data analysis, and visualization here](https://nbviewer.org/github/gabbita-ss/Portfolio/blob/main/Compton%20final.ipynb)
+<details> <summary><b>Click here to look at the project description</b></summary>  
 This experiment was part of my PHY 445 (Senior Physics Lab) coursework and was on a physics scattering phenomenon called Compton Scattering. The experiment included collecting scattering and background noise data at 10 different angles of the setup. The form of data collected is of the form of "number of scattering events" for each given "energy bin". Therefore, it is frequency data and follows a poisson distribution. The corrected data is the result of subtracting the background noise dataset from the dcattering datasets. The corrected data is expected to contain two peaks and therefore can be fit with two gaussians. One of the 10 cleaned datasets after data preprocessing (described below) and the fit is as follows:
 
 ![Compton Scattering data with fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Compton-data-format_1.jpg)
