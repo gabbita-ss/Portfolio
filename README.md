@@ -73,7 +73,7 @@ This experiment was part of my PHY 445 (Senior Physics Lab) coursework and was o
 
 ![Compton Scattering data with fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Compton-data-format_1.jpg)
 
-The goal of the project was to track the location of larger peak on the energy bin axis through all 10 angles or datasets with it's associated uncertainty. and plot the energy-bin location of the peak as a function of the angle. A regression model of the expected theoretical curve is fit with the "electron mass" as the free parameter to determine and verify the electron mass with the accepted value in literture (~511 MeV). [The detailed overview of the physics, the data analysis, model used, and the results and conclusions can be found here.](https://github.com/gabbita-ss/Portfolio/blob/main/Compton.pdf) 
+The goal of the project was to track the location of larger peak on the energy bin axis through all 10 angles or datasets with it's associated uncertainty. and plot the energy-bin location of the peak as a function of the angle. A regression model of the expected theoretical curve is fit with the "electron mass" as the free parameter to determine and verify the electron mass with the accepted value in literture (~511 keV). [The detailed overview of the physics, the data analysis, model used, and the results and conclusions can be found here.](https://github.com/gabbita-ss/Portfolio/blob/main/Compton.pdf) 
 
 The dataset consists of a set of 20 datasets of frequency data - 10 scattering datasets and 10 background datasets in total - one scattering and background frequency data for each angle. In order to accomplish this goal the following steps were followed:
 
@@ -96,7 +96,12 @@ The result of the data preprocessing is the following:
 **Model Building and Validation**
 - The appropriate regression curve was fit to the Energy-Angle plot
 - The regression parameter (electron mass) was determined using weighted least-squares
-  The complete model and
+- A Chi-squared test was performed to check validity of fit 
+
+![Energy_Angle fit](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/Energy-Angle-fit.jpg)
+
+**Testing and Insights**
+- The chi-squared obtained was 0.03 for 9 degrees of freedom and the derived mass of the electron was 511.57 keV with an uncertainty of 77.51 keV which agrees with literature (510.998 keV)
 
 </details>
 
