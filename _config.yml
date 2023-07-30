@@ -1,4 +1,7 @@
 title: Hello! Look around to find some cool Data Science projects!
 show_downloads: true
 theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  parse_html_block: true
 
