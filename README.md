@@ -33,7 +33,7 @@ I can help draw insights and predictions from data starting with exploratory dat
 
 ## Google Advanced Data Analytics Capstone Project
 <details>
-<summary>**Click here to view this project!**</summary>
+<summary>Click here to view this project!</summary>
   
 As a part of the Google Advanced Data Analytics certification, I have completed a data analysis profject from beginning to end. The project deals with a hypothetical Salifort Motors, and aims to predict employee retention in the company. The goal of the project is to determine whether an employee will stay in the company or churn (leave) based on a set of features. The data set contains data collected from employees on a variety of factors such as their satisfaction level, salary, and the number of years they have worked for the company etc. In addition, the data also includes whether the employee stayed in the company or left. This data set was borrowed from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/leviiiest/salifort-motor-hr-dataset?select=HR_capstone_dataset.csv). The data format is as follows:
 
