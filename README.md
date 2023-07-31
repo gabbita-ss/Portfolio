@@ -107,6 +107,29 @@ The result of the data preprocessing is the following:
 
 </details>
 
+## Stony Brook Cosmology Group Research
+
+<details><summary><b>Click here to view the Cosmology project description!</b></summary>
+I have worked in the Stony Brook Plasma Physics research group to analyze data from a radio telescope called BMX. The telescope observed the sky for signals belonging to a certain frequency range each day. Therefore, the data consisted of hundreds of datasets of image data where the x-axis represented time and the y-axis the frequency. The intensity of a signal at a certain frequency and time can be plotted on a heatmap like in the one below:
+
+![Raw BMX data](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/raw.png)
+
+However, it is clear that the data is noisy and distorted. The noise in the data occurs from the amplification of the signal by the telescope and is random in time. The distortion, known as doppler shift, is much more subtle and can be seen through the slight arching of the dark blue line connecting the two clusters in the image. The goal of the project was to remove this noise and distortion from the image and followed the following steps.
+
+**Exploratory Data Analysis**
+- The data was explored and the different types of noise in the data were examined
+- Data that was too corrupt was removed
+
+**Data Pre-Processing**
+- The noise in the data was removed by fitting a regression line through every column of the dataset to model the expected form of the noise and dividing it out of the dataset
+- The doppler shift in the data was corrected using complex image processing techniques
+
+**Results and Insights**
+The result of the code written can be seen in the following figure:
+  
+</details>
+
+
 
 
 
