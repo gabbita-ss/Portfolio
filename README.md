@@ -109,6 +109,8 @@ The result of the data preprocessing is the following:
 
 ## Stony Brook Cosmology Group Research
 
+[Click here to view the main coding files for the project!](https://github.com/gabbita-ss/Portfolio/tree/main/BMX)
+
 <details><summary><b>Click here to view the Cosmology project description!</b></summary>
 I have worked in the Stony Brook Plasma Physics research group to analyze data from a radio telescope called BMX. The telescope observed the sky for signals belonging to a certain frequency range each day. Therefore, the data consisted of hundreds of datasets of image data where the x-axis represented time and the y-axis the frequency. The intensity of a signal at a certain frequency and time can be plotted on a heatmap like in the one below:
 
