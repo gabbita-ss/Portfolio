@@ -125,6 +125,7 @@ However, it is clear that the data is noisy and distorted. The noise in the data
 - The doppler shift in the data was corrected using complex image processing techniques
 
 **Results and Insights**
+
 The result of the code written can be seen in the following figure:
 
 ![Data transformation](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/BMX%20data%20transformation.jpg)
