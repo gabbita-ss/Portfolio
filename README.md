@@ -136,7 +136,7 @@ The result of the code written can be seen in the following figure:
 
 ## Stony Brook Plasma Group Research
 
-<details><summary>Click here to look at the plasma research project description!</summary>
+<details><summary><b>Click here to look at the plasma research project description!</b></summary>
 
 As part of this project, I was tasked with interpolating low resolution 2-D plasma simulation images to obtain higher resolution images. The aim of the project is to help the team decide on whether interpolation was the right method to improve simulation resolution. The project was mainly image processing and included the following steps:
 
