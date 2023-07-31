@@ -126,6 +126,8 @@ However, it is clear that the data is noisy and distorted. The noise in the data
 
 **Results and Insights**
 The result of the code written can be seen in the following figure:
+
+![Data transformation](https://raw.githubusercontent.com/gabbita-ss/Portfolio/main/docs/assests/images/BMX%20data%20transformation.jpg)
   
 </details>
 
